@@ -35,7 +35,7 @@ Commercial cloud AI models routinely log, inspect, and train on inbound prompt t
 
 ---
 
-## 📸 Interface & Live Audit Preview
+##  Interface & Live Audit Preview
 
 ### 1. Ingestion & Runtime Configuration
 Select your locally hosted model, choose the source type (email request vs. legal clause), and paste the payload into the dark-mode studio interface:
