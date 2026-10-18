@@ -6,7 +6,7 @@ Built for the **Hacktoberfest Open-Source AI Challenge: Week 2 (Side Hustle Trac
 
 ---
 
-## 📌 The Real Problem with Freelance "Quick Revisions"
+##  The Real Problem with Freelance "Quick Revisions"
 
 Every independent developer or agency freelancer knows this exact message pattern:
 
@@ -22,7 +22,7 @@ Commercial cloud AI models routinely log, inspect, and train on inbound prompt t
 
 ---
 
-## 💡 How ScopeCheck Solves It
+##  How ScopeCheck Solves It
 
 **ScopeCheck** runs entirely on your local machine. It acts as an offline boundary auditor that ingests revision requests or contract clauses, evaluates them against freelance industry standards, and provides an immediate, diplomatic negotiation script.
 
@@ -49,7 +49,7 @@ The engine outputs the risk rating, separates frontend tweaks from backend addit
 
 ---
 
-## 🔒 Why Open Innovation Matters Here
+##  Why Open Innovation Matters Here
 
 A tool like ScopeCheck cannot function as a viable, trustworthy side-hustle utility on closed, proprietary AI APIs:
 
@@ -60,7 +60,7 @@ A tool like ScopeCheck cannot function as a viable, trustworthy side-hustle util
 
 ---
 
-## 🏆 Hacktoberfest Prize Track Eligibility
+##  Hacktoberfest Prize Track Eligibility
 
 - **Best Use of Gemma:** Uses local gemma2:2b and gemma3:4b checkpoints as the core reasoning engine. Gemma's instruction-following capabilities parse subtle contractual nuances and technical requirements without hallucinating non-existent terms.
 - **Best Use of Render:** Configured with decoupled API/front-end services and standardized environment variables for streamlined one-click web deployments on Render.
@@ -68,7 +68,7 @@ A tool like ScopeCheck cannot function as a viable, trustworthy side-hustle util
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend / Application Layer:** Streamlit (Python 3.10+) with custom CSS design tokens
 - **Inference Server:** Ollama
@@ -77,7 +77,7 @@ A tool like ScopeCheck cannot function as a viable, trustworthy side-hustle util
 
 ---
 
-## 🚀 Getting Started Locally
+##  Getting Started Locally
 
 ### 1. Prerequisites
 - Python 3.10 or higher installed
@@ -99,6 +99,6 @@ A tool like ScopeCheck cannot function as a viable, trustworthy side-hustle util
 
 ---
 
-## 📄 License
+##  License
 
 Distributed under the Apache 2.0 License. See LICENSE for details.
