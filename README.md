@@ -60,11 +60,10 @@ A tool like ScopeCheck cannot function as a viable, trustworthy side-hustle util
 
 ---
 
-##  Hacktoberfest Prize Track Eligibility
+##  Challenge Focus & Architecture
 
-- **Best Use of Gemma:** Uses local gemma2:2b and gemma3:4b checkpoints as the core reasoning engine. Gemma's instruction-following capabilities parse subtle contractual nuances and technical requirements without hallucinating non-existent terms.
-- **Best Use of Render:** Configured with decoupled API/front-end services and standardized environment variables for streamlined one-click web deployments on Render.
-- **Best Use of a .tech Domain:** DNS configurations and routing metadata designed to map directly to custom .tech developer domains.
+- Primary Model: Uses Google Gemma (gemma2:2b / gemma3:4b) running locally via Ollama as the core reasoning engine. Gemma handles technical boundary detection and structured risk parsing without leaking proprietary contract data.
+- Execution Paradigm: 100% on-device, air-gapped inference designed specifically for non-disclosure agreement (NDA) safety.
 
 ---
 
